@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - what is your organization all about?
+# General Overview
 
-🌈 Contribution guidelines - how can the community get involved?
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-
-🍿 Fun facts - what does your team eat for breakfast?
-
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+# Clone an Existing Repository
+- Set your working directory using Terminal / Command Prompt:
+  - cd "C:\Users\savagec\Desktop\Data Files"
+- Get the URL of the repository you would like to clone:
+  - https://github.com/hemming-morse/demo-repository
+- Clone the repository using Terminal / Command Prompt:
+  - git clone https://github.com/hemming-morse/demo-repository
+- You will see a new folder in your working directory with the cloned repository.
