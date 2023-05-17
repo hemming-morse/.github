@@ -11,4 +11,4 @@
 
 ## Create a New Repository
 - Create a new *private* repository in the organization itself and follow the instructions provided during that action.
-- Create a new *private* repository from PyCharm/Visual Studio Code/etc. and transfer ownership to hemming-morse.
+- Create a new *private* repository from PyCharm/Visual Studio Code/etc. and transfer ownership to hemming-morse organization.
